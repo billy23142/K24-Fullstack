@@ -1,0 +1,20 @@
+.all {
+    display: flex;
+}
+
+
+.v100 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.v200 {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+.v300 {
+    background-color: green;
+    height: 300px;
+    width: 300px;
+}
